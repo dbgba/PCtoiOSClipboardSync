@@ -15,6 +15,7 @@
 
 * 此程序是基于AutoHotkey写的脚本，如果你想自定义其中的内容，用记事本打开"PCtoiOSClipboardSync.ahk"对应修改参数即可。
 
+* [更多扩展玩法可点击查看](https://www.ahk66.com/)
 
 # iOS端快捷指令
 > 以下是iOS向PC发送剪贴板信息的快捷指令【建议关联NFC贴纸使用】
